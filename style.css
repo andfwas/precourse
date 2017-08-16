@@ -1,0 +1,49 @@
+body {
+  color: white;
+  background-color: blue;
+}
+
+img {
+  width: 33%;
+  margin-left: 33%;
+  border-radius: 2em;
+}
+
+h1 {
+  font-size: 3em;
+  text-align: center;
+  text-shadow: .1em .1em 1em black;
+}
+
+h3 {
+  text-align: center;
+  text-shadow: .1em .1em 1em black;
+}
+
+p {
+  margin-left: 20%;
+  margin-right: 20%;
+}
+
+ul {
+  margin-left: 22%;
+  margin-right: 22%;
+}
+
+a {
+  color: pink;
+  font-style: italic;
+}
+
+.reference {
+  text-align: center;
+}
+
+.cordelia {
+  background-color: pink;
+  color: blue;
+}
+
+#cordelia {
+  text-align: center;
+}

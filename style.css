@@ -1,6 +1,7 @@
 body {
   color: white;
-  background-color: blue;
+  background-color: #0C2340;
+  text-shadow: .1em .1em 2em #FC4C02;
 }
 
 img {
@@ -12,12 +13,11 @@ img {
 h1 {
   font-size: 3em;
   text-align: center;
-  text-shadow: .1em .1em 1em black;
+
 }
 
 h3 {
   text-align: center;
-  text-shadow: .1em .1em 1em black;
 }
 
 p {
@@ -31,8 +31,9 @@ ul {
 }
 
 a {
-  color: pink;
+  color: #FC4C02;
   font-style: italic;
+  text-shadow: .1em .1em 2em #FC4C02;
 }
 
 .reference {
@@ -40,9 +41,15 @@ a {
 }
 
 .cordelia {
-  background-color: pink;
+  color: #0C2340;
+  background-color: #FC4C02;
+  text-shadow: .1em .1em 2em white;
+}
+
+#homelink {
   color: blue;
 }
+
 
 #cordelia {
   text-align: center;

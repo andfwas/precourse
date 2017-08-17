@@ -4,6 +4,14 @@ body {
   text-shadow: .1em .1em 2em #FC4C02;
 }
 
+#andyH1 {
+  color: #FC4C02;
+}
+
+#andyH3 {
+  color: #FC4C02;
+}
+
 img {
   width: 33%;
   margin-left: 33%;
@@ -13,7 +21,6 @@ img {
 h1 {
   font-size: 3em;
   text-align: center;
-
 }
 
 h3 {
